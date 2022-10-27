@@ -8,3 +8,7 @@ This project uses the "Newbie & Friends" assets.
 Please download and import the package from the following page.
 
 https://assetstore.unity.com/packages/3d/characters/newbie-friends-208112
+
+### Related Project
+
+MaterialVariantTest - https://github.com/keijiro/MaterialVariantTest
